@@ -1,0 +1,13 @@
+-- Solve business requirements sql queries 
+-- 1.Calculate the total sales for each respective month 
+-- 2.Determine the month-on-month increase or decrease in sales 
+-- 3.Calculate the difference in sales between the selected month and the previous month 
+-- 4.Calculate the total number of orders for each respective month 
+-- 5.Determine the month-on-monnth increase in the number of orders. 
+-- 6.Calculate the difference in the number of orders between the selected month and the previous month 
+-- 7.Calculate the total quantity sold for each respective month 
+-- 8.Determine the month-on-monnth increase or decrease in the total quantity sold.
+-- 9.Calculate the difference in the total quantity sold  between the selected month and the previous month
+-- 10.Find Total_sales, Total Quantity sold and Total orders on the specific date 
+-- 11.Find sales in weekdays and weekends 
+-- 12.Finds sales for each location 
