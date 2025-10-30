@@ -9,7 +9,7 @@ This project analyzes the sales data of a hypothetical (or real) coffee shop cha
 
 ## 📊 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Dashboard.png)
+![Coffee Shop Sales Dashboard](Dashboard%20.png)
 
 ---
 
