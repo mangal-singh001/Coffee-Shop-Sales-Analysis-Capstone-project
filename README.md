@@ -1,14 +1,15 @@
 # Coffee Shop Sales Analysis – Capstone Project
 
-**Author:** Mangal Singh
-**Date:** October 2025
-**Repo:** [mangal-singh001/Coffee-Shop-Sales-Analysis-Capstone-project](https://github.com/mangal-singh001/Coffee-Shop-Sales-Analysis-Capstone-project)
-
 ---
 
 ## 📌 Project Overview
 
 This project analyzes the sales data of a hypothetical (or real) coffee shop chain to uncover actionable insights, answer key business questions, and build dashboards for decision-making. By combining SQL, Excel, Power BI, and visuals, it demonstrates end-to-end data analysis skills — from data ingestion and cleaning to visualization and interpretation.
+
+
+## 📊 Dashboard Preview
+
+![Coffee Shop Sales Dashboard](Dashboard.png)
 
 ---
 
