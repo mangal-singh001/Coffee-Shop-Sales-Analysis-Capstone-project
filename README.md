@@ -1,6 +1,5 @@
 # Coffee Shop Sales Analysis – Capstone Project
 
----
 
 ## 📌 Project Overview
 
@@ -149,11 +148,12 @@ This project is open-source and shared under the MIT License (or choose the lice
 
 ## 📞 Contact
 
-For questions, you can reach me at: **mangal-singh001 [at] github** (or your email)
-Or check out my GitHub profile: [https://github.com/mangal-singh001](https://github.com/mangal-singh001)
+**Author:** Mangal Singh  
+
+📧 Email: devv9585@gmail.com@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mangal-singh123/
+💻 GitHub: https://github.com/mangal-singh001  
 
 ---
 
 Thank you for reviewing this project! I hope you find this analysis helpful and inspiring for your own data science journey.
-
-
