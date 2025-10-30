@@ -1,7 +1,3 @@
-Here’s a polished README for your **Coffee Shop Sales Analysis Capstone Project** (on your GitHub repo) that you can copy into `README.md`. You can customize details like specific dataset source, your name, date, etc.
-
----
-
 # Coffee Shop Sales Analysis – Capstone Project
 
 **Author:** Mangal Singh
