@@ -155,7 +155,4 @@ Or check out my GitHub profile: [https://github.com/mangal-singh001](https://git
 
 Thank you for reviewing this project! I hope you find this analysis helpful and inspiring for your own data science journey.
 
----
-
-Would you like me to also create **LinkedIn post copy** summarising this project, or a **visual snippet** (e.g., banner image) for your GitHub README?
 
