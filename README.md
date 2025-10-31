@@ -150,7 +150,7 @@ This project is open-source and shared under the MIT License (or choose the lice
 
 **Author:** Mangal Singh  
 
-📧 Email: devv9585@gmail.com@gmail.com  
+📧 Email: devv9585@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mangal-singh123/
 💻 GitHub: https://github.com/mangal-singh001  
 
